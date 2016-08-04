@@ -5,11 +5,9 @@
  * @version 1.0.5
  */
 
-//#region   模块引入
-var getmoudle_path = 'C:/Program Files/nodejs/node_modules/';
-var nodegrass = require(getmoudle_path + 'nodegrass');
-var cheerio = require(getmoudle_path + 'cheerio');
-
+//#region   模块引入 
+var nodegrass = require( './node_modules/nodegrass');
+var cheerio = require( './node_modules/cheerio');
 var zhihu = require('./zhihu_getQuestrion_downloadImg_moudle.js'); //需要传入当前的参数：问题URL
 var mysql = require('./mysql.js');
 

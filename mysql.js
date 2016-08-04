@@ -5,8 +5,7 @@
  * @version v 0.1.1
  */
 
-var getmoudle_path = 'C:/Program Files/nodejs/node_modules/';
-var mysql = require(getmoudle_path + 'mysql');
+var mysql = require( './node_modules/mysql');
 var TEST_DATABASE = 'zhihuspiderdata';
 var TEST_TABLE = 'Answers';
 

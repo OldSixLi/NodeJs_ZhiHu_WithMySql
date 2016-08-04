@@ -9,7 +9,7 @@ var zhihu = require('./zhihu_getQuestrion_downloadImg_moudle.js'); //知乎单�
 var coll = require('./CollectionQuestion.js');//收藏夹的模块
 
 //#region coll模块使用方法
-var collList = ['29889821'];
+var collList = ['31832330'];
 
 var collObj = {
     dianzanshu: 1000,//点赞数

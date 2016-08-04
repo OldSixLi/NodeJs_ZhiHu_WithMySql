@@ -7,9 +7,8 @@
 
 
 //#region   模块引入与变量声明
-var getmoudle_path = 'C:/Program Files/nodejs/node_modules/';
-var nodegrass = require(getmoudle_path + 'nodegrass');
-var cheerio = require(getmoudle_path + 'cheerio');
+var nodegrass = require('./node_modules/nodegrass');
+var cheerio = require('./node_modules/cheerio');
 var https = require("https");
 var fs = require("fs");
 var mysql = require('./mysql');

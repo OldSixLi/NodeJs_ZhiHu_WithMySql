@@ -9,6 +9,7 @@
 var nodegrass = require( './node_modules/nodegrass');
 var cheerio = require( './node_modules/cheerio');
 var zhihu = require('./zhihu_getQuestrion_downloadImg_moudle.js'); //需要传入当前的参数：问题URL
+var fs = require("fs");
 var mysql = require('./mysql.js');
 
 //#endregion
@@ -30,6 +31,7 @@ function collstart(collectionObj)
     nodegrass.get("https://www.zhihu.com/collection/" + collid, function (data, status, headers)
     {
         var $ = cheerio.load(data);
+         fs.appendFile('./ErrorLogs.txt', data+'\r\n\r\n\r\n');
         //获取当前收藏夹下的总页数（页数列表中倒数第二个span中的内容）
         pages = parseInt($('.zm-invite-pager span').eq(-2).text());
         console.log('当前收藏夹的总页数' + pages);

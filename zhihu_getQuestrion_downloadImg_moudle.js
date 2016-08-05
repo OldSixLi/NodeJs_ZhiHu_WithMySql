@@ -174,6 +174,9 @@ function getAnswer(index, questionId, anstitle)
             } catch (e)
             {
                 console.log(e + '转化JSON 失败');
+                if (data=='') {
+                fs.appendFile('./ErrorLog.txt', data+'为空\r\n\r\n\r\n');
+                };
                 return;
             }
             //#endregion

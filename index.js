@@ -9,7 +9,7 @@ var zhihu = require('./zhihu_getQuestrion_downloadImg_moudle.js'); //知乎单�
 var coll = require('./CollectionQuestion.js');//收藏夹的模块
 
 //#region coll模块使用方法
-var collList = ['31832330'];
+var collList = ['29847997'];
 
 var collObj = {
     dianzanshu: 1000,//点赞数
@@ -32,21 +32,21 @@ for (var collindex = 0; collindex < collList.length; collindex++)
 
 //#region zhihu模块获取问题下的图片
 
-var urlList = [
-'https://www.zhihu.com/question/31159026'
-];
-for (var i = 0; i < urlList.length; i++)
-{
-    (function (io)
-    {
-        var url = urlList[io];
-        var queobj = {
-            question_url: url,
-            dianzanshu: 100
-        };
-        zhihu.start(queobj);//进行图片下载
-    })(i);
-};
+// var urlList = [
+// 'https://www.zhihu.com/question/21757507'
+// ];
+// for (var i = 0; i < urlList.length; i++)
+// {
+//     (function (io)
+//     {
+//         var url = urlList[io];
+//         var queobj = {
+//             question_url: url,
+//             dianzanshu: 100
+//         };
+//         zhihu.start(queobj);//进行图片下载
+//     })(i);
+// };
 
 
 

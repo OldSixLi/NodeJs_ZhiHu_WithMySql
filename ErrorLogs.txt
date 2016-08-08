@@ -1,3 +1,1777 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth ">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+<meta http-equiv="X-ZA-Response-Id" content="65f20b224eb147629824750cca016761">
+
+<title>人性本恶 - 收藏夹 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://collections/29847997">
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=https://www.zhihu.com/collection/29847997">
+<meta id="znonce" name="znonce" content="d09c68f53d0e4af98b8b01c66cf2f19f">
+
+
+
+<link rel="apple-touch-icon" href="https://static.zhihu.com/static/revved/img/ios/touch-icon-152.87c020b9.png" sizes="152x152">
+<link rel="apple-touch-icon" href="https://static.zhihu.com/static/revved/img/ios/touch-icon-120.496c913b.png" sizes="120x120">
+<link rel="apple-touch-icon" href="https://static.zhihu.com/static/revved/img/ios/touch-icon-76.dcf79352.png" sizes="76x76">
+<link rel="apple-touch-icon" href="https://static.zhihu.com/static/revved/img/ios/touch-icon-60.9911cffb.png" sizes="60x60">
+
+
+<link rel="shortcut icon" href="https://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="https://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="https://static.zhihu.com/static/revved/-/css/z.cf82aeb7.css">
+
+
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+
+
+
+<!--[if lt IE 9]>
+<script src="https://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="https://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+<script src="https://static.zhihu.com/static/revved/-/js/instant.14757a4a.js"></script>
+
+<style type="text/css">
+.zm-item-fav + .zm-item-fav .zm-item-answer {
+padding-top: 7px;
+border-top: 1px solid #eee;
+}
+.zm-item-answer-author-info a.collapse {
+margin-right: -25px;
+margin-top: 0;
+}
+</style>
+
+</head>
+
+<body class="zhi ">
+
+
+
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting clearfix" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo" data-za-c="view_home" data-za-a="visit_home" data-za-l="top_navigation_zhihu_logo">知乎</a>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form">
+
+
+
+<input type="hidden" name="type" value="content">
+<label for="q" class="hide-text">知乎搜索</label><input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索你感兴趣的内容...">
+<button type="submit" class="zu-top-search-button"><span class="hide-text">搜索</span><span class="sprite-global-icon-magnifier-dark"></span></button>
+</form>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home" data-za-c="view_home" data-za-a="visit_home" data-za-l="top_navigation_home">首页</a>
+</li>
+
+
+
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+</li>
+
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content message">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<span class="noti-spinner-loading"></span>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content user" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<span class="noti-spinner-loading"></span>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content thanks" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<span class="noti-spinner-loading"></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+
+
+
+<div class="zg-wrap zu-main clearfix "  role="main">
+<div class="zu-main-content">
+<div class="zu-main-content-inner">
+
+
+<div class="zg-section-title">
+<div style="margin-bottom: 5px;">
+
+</div>
+<div style="margin:0 0 8px 0" id="zh-list-title" data-disabled="1">
+<h2 class="zm-item-title zm-editable-content" id="zh-fav-head-title">
+
+人性本恶
+</h2>
+</div>
+<div class="zg-section" style="margin-bottom: 5px;" id="zh-list-desc" data-disabled="1">
+<div class="zm-editable-content" id="zh-fav-head-description"></div>
+<div class="zm-editable-content" id="zh-fav-head-description-source" style="display:none;"></div>
+</div>
+<div class="zm-item-meta" id="zh-list-meta-wrap">
+<div class="zm-item-meta-actions">
+<a href="#" name="addcomment" class="toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+<span class="zg-bull">&bull;</span>
+<a href="/collection/29847997/log">修改记录</a>
+
+</div>
+
+</div>
+</div>
+
+<div id="zh-list-answer-wrap" style="margin-bottom: 10px;">
+
+<div class="zm-item">
+<h2 class="zm-item-title"><a target="_blank" href="/question/29653125">你经历的最让你觉得人心可怕的事是什么？</a></h2>
+<div class="zm-item-fav">
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="41475301"
+data-atoken="114985303"
+data-collapsed="0"
+data-created="1470304020"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/29653125/answer/114985303">
+<meta itemprop="answer-id" content="41475301">
+<meta itemprop="answer-url-token" content="114985303">
+<a class="zg-anchor-hidden" name="answer-41475301"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>24K</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">24K</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+
+<span class="author-link-line">
+<a class="author-link"
+data-hovercard="p$t$ya-dang-kai-en-si-mi"
+target="_blank" href="/people/ya-dang-kai-en-si-mi"
+>亚当·凯恩斯密</a></span><span title="前银行业互联网金融从业者，现公务员一枚" class="bio">前银行业互联网金融从业者，现公务员一枚</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="24356" data-async-voters="1">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">24356</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="4043999" data-action="/answer/content" data-author-name="亚当·凯恩斯密" data-entry-url="/question/29653125/answer/114985303">
+
+<textarea hidden class="content">大学时有一次在地铁站等地铁，旁边站了一个很漂亮的女生，长相甜美，打扮也挺时尚，她手里拿着一袋炸鸡排，正自顾自用竹签扎着吃。&lt;br&gt;&lt;br&gt;然后我注意到那女生旁边站着一个女的，大概三十岁上下，她手里正使劲拽着一个六七岁的熊孩子，听话语是她儿子。&lt;br&gt;&lt;br&gt;北京的朋友应该知道，北京地铁有些站没有护栏，而那熊孩子看起来十分好动，嘻嘻哈哈、上蹿下跳的，女的怕他有危险就一边拽着他一边呵斥着。&lt;br&gt;&lt;br&gt;那小男孩闹了一会儿，便注意到了一旁吃炸鸡的妹子，于是他伸出手，指着正吃炸鸡排的女孩对女的嚷道:妈妈，我要吃鸡排！&lt;br&gt;&lt;br&gt;那女的看了女孩一眼，半开玩笑地说:你去跟姐姐说，让姐姐把炸鸡排给你吃。&lt;br&gt;&lt;br&gt;那小男孩就侧头对漂亮妹子说:“我要吃鸡排！”漂亮妹子听到声音，侧头看了眼，就转过了头没有吭声。&lt;br&gt;&lt;br&gt;那女的有点尴尬，而小男孩则又开始上蹿下跳的闹，嚷嚷着要吃炸鸡。我听到那女的嘀咕了一句“什么人啊，打扮的跟个小姐一样”。&lt;br&gt;&lt;br&gt;然后那女的拽着小男孩不停安抚:乖儿子别闹，咱别闹，等会儿出去了妈妈给你买。&lt;br&gt;&lt;br&gt;之后，就听到地铁进站的声音，地铁远远驶来，就在快到站的时候，那个小男孩突然挣脱他妈妈的手，跑上前，使劲向前推了那女生一把，那女孩尖叫一声，眼看就要被推下站台。&lt;br&gt;&lt;br&gt;十分幸运的是，因为我一直偷偷瞄那妹子，小男孩跑向她时，我觉察到了不对。就在妹子被推了一下，脚下趔趄差点摔下站台时，我向前一步，一把抓住了她胳膊。而仅仅是几秒钟之后，地铁带着一股风，像钢铁巨兽一般从我们面前驶过，然后停下。&lt;br&gt;&lt;br&gt;周围看到的人全都吓了一跳，那女孩子则被突然发生的事情吓得一脸苍白，嘴唇都有些微微发抖。那熊孩子的妈也吓了一跳，然而她没有上前安抚女孩，也没有责骂熊孩子，而是趁着车到站，抓着小男孩挤上了车，隐没在了车厢人群里。&lt;br&gt;&lt;br&gt;之后，女孩子没上地铁，我陪她在台阶上坐了一会儿，她有点懵，然后坐在台阶上哭，之后不停地谢我。事情过了很久，我依然忘不了那一刻，那女孩哭泣时微微颤抖着的肩膀。&lt;br&gt;&lt;br&gt;有人说人性本善，也有人说人性本恶，而我一直觉得世界这么大，原本就是善与恶共存，有些恶从小就种下，等哪天爆发出来害了人，才会被发现和惩罚。&lt;br&gt;&lt;br&gt;人性诡谲如此，而更令我感到可怖的是，你完全不知道，这些恶隐藏在怎样的皮囊之下。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;————————分割线————————&lt;br&gt;&lt;br&gt;昨夜睡前明明只有几个赞，早上一上知乎，居然提示八百多个赞。答主一方面感到惊讶，另一方面也谢谢各位的点赞和关心。&lt;br&gt;&lt;br&gt;看到评论已经超过150条，本想出于礼貌一一回复，然而答主确实是个懒人，所以我把评论仔细看了一遍，对比较集中的几个问题说明一下，如有遗漏深表抱歉。如果有知友实在好奇，可以给答主私信。&lt;br&gt;&lt;br&gt;一、和那个女生是否在一起？&lt;br&gt; 答：并没有。: )&lt;br&gt;&lt;br&gt;二、女孩子怎么可以在地铁吃东西？&lt;br&gt; 答：我个人觉得还好吧，北京地铁站候车区是相对开放式的，她没有在车厢吃。而且只是类似台湾大鸡排那种炸鸡排，纸袋子兜着传不出什么味道。&lt;br&gt;&lt;br&gt;三、为什么不调监控报警？为什么不把那对母子暴打一顿？&lt;br&gt;答：事情发生后，那对母子就进了地铁扎进了人堆，那趟车很快就开走了，周围注意到这件事的人，那趟地铁之后也都走完了。女孩子有点懵，我选择留下来安慰她。&lt;br&gt;你问我为什么不报警，不调监控？ 是怕折腾还是觉得没用，抱歉，我解释不了。&lt;br&gt;你问我为什么选择留在原地安慰女孩子而不去追打那对混蛋母子？我个人的行为方式就是这样，更深层次的，我也不知道该怎么解释。&lt;br&gt;&lt;br&gt;四、“答主厉害”“谢谢答主”“英雄”&lt;br&gt;答：我承认，当时的我只是一个遇到漂亮妹子就忍不住多看几眼的人。虽然我伸了下手，竟阻止了一场可能发生的严重事故，然而事实是我没付出多少成本。一个三观正常的人处在当时情境下，也会那么做的。夸我一下我接受，但我当不起所谓的英雄。&lt;br&gt;&lt;br&gt;五、刚看到有评论问是不是真实经历&lt;br&gt;答：真实经历，给多人口述过，但是第一次在知乎写下来。&lt;br&gt;&lt;br&gt;&lt;br&gt;————————分割线————————&lt;br&gt;经知友提醒，得知头条新闻 头条号@朱朱谈教育 未经本人允许，在不标注作者和来源的情况下，私自转载本文，本人经尝试，未能与该头条号取得联系。&lt;br&gt;请该头条号编辑人员，在看到这条说明后，删除其相关转载，谢谢。</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+大学时有一次在地铁站等地铁，旁边站了一个很漂亮的女生，长相甜美，打扮也挺时尚，她手里拿着一袋炸鸡排，正自顾自用竹签扎着吃。然后我注意到那女生旁边站着一个女的，大概三十岁上下，她手里正使劲拽着一个六七岁的熊孩子，听话语是她儿子。北京的朋友应…
+
+<a href="/question/29653125/answer/114985303" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 2016-08-04" target="_blank" href="/question/29653125/answer/114985303">编辑于 00:46</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-4043999"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>2669 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+<div class="zm-item">
+<h2 class="zm-item-title"><a target="_blank" href="/question/49199181">如何评价胶州一中的应届高三毕业生郭一泽涉嫌篡改同学的志愿一事？</a></h2>
+<div class="zm-item-fav">
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="41507225"
+data-atoken="115065126"
+data-collapsed="0"
+data-created="1470337362"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/49199181/answer/115065126">
+<meta itemprop="answer-id" content="41507225">
+<meta itemprop="answer-url-token" content="115065126">
+<a class="zg-anchor-hidden" name="answer-41507225"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>46</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">46</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+
+<span class="author-link-line">
+<a class="author-link"
+data-hovercard="p$t$gao-tian-50"
+target="_blank" href="/people/gao-tian-50"
+>高天</a></span><span title="加州码农一只" class="bio">加州码农一只</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="46" data-async-voters="1">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">46</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="11895739" data-action="/answer/content" data-author-name="高天" data-entry-url="/question/49199181/answer/115065126">
+
+<textarea hidden class="content">世界很残忍，要学会保护自己。&lt;br&gt;&lt;br&gt;这件事现在已经基本明晰了，常升是受害者，而他的同学兼好友是法律的侵犯者。&lt;br&gt;&lt;br&gt;随手翻翻答案，基本都是谴责这个作案者及其父母的。毫无疑问，他们突破了法律的底线，违背了道德的制约，犯了不可饶恕的过错。现在对他们的谴责既轻松又容易，也会在众人的认可中找到共鸣，感觉自己「三观极正」。&lt;br&gt;&lt;br&gt;然而，对的事情，说多少遍，还是对的。&lt;br&gt;&lt;br&gt;无论是看起来合理的开除学籍，法律制裁，还是看起来激进一些的让同学们「照顾」作案者，都不过是一些cheap talk罢了。舆论已然一边倒了，多三五个筹码并不能改变天平的状态。&lt;br&gt;&lt;br&gt;可是常升呢？&lt;br&gt;&lt;br&gt;有人说应该破格录取。这个想法看起来还算合情，但是真的合理么？已经填报的志愿（虽然是他人恶意篡改的），可以在出分之后改回来么？这个先河对于法律来说是个考验。今天合情的例子，到了明天，或许就成为了系统的漏洞。&lt;br&gt;&lt;br&gt;即便是常升被录取了，他的生活也已经被完全改变了。他这几个月以来的焦虑和无助会深深地印在他的记忆里，他和朋友的友情肯定是终结了，他就算最终去了他想去的大学，大学生活还会是他曾经幻想的那么美好么？&lt;br&gt;&lt;br&gt;更何况，他很可能去不了那个大学。&lt;br&gt;&lt;br&gt;对作案者的任何制裁，都挽回不了受害者的损失，只能警醒下一个潜在作案者。&lt;br&gt;&lt;br&gt;这让我想起了每隔一阵就会掀起讨论的女孩子该不该学会保护自己免受侵害的事情。会有人站出来说，女生尽量不要穿得太过暴露，减少单独行动，不要一个人走夜路，少去酒吧喝大酒之类。这时候一定也会有人站出来说，「我们要怎么做是我们的事情，我们这么做不代表我们想被强奸」。&lt;br&gt;&lt;br&gt;是啊，如果女孩子被侵犯了，当然绝不是女孩子一丝一毫的过错，法律的破坏者才是法律制裁的对象。但是这些女孩子的生活还会和过去一样么？对作案者的惩罚会给这些受害者带来多少补偿呢？如果给她们一个机会，告诉她们或许你这么这么做，你就不会成为受害者，她们还会不会「坚持自我」呢？&lt;br&gt;&lt;br&gt;如果常升输入密码的时候小心一下身后的「好友」，有基本的安全意识。如果他在报志愿之后检查一下结果，发现被恶意篡改，然后联系上级。如果他单独在一个非公用电脑上报的志愿……或许这一切都不会发生，他会进到他喜欢的大学，然后毕业之后成为一名体育老师。&lt;br&gt;&lt;br&gt;他做错了么？我只能回答没有，因为犯错误的是别人。但是他确实曾经有机会让这个事情不发生。&lt;br&gt;&lt;br&gt;今天的我们仍然在谴责作案者，做着最容易的情绪发泄和心理认同。今天的我们依然在同情受害者，想着用各种方式弥补他的损失。我们太害怕去告诉受害者，其实你可以做得更好，因为他没有「犯错」，却已经这么可怜。&lt;br&gt;&lt;br&gt;然而，他真的想成为受害者，看着作案者被法律制裁，再受到大家的同情和安慰么？&lt;br&gt;&lt;br&gt;世界真的很残酷，我们无力改变这个现实。呐喊助威的旁观者，始终都是旁观者。一个人只活一次，保护好自己，不要让自己成为「前车之鉴」。尽管你没做错什么。</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+世界很残忍，要学会保护自己。这件事现在已经基本明晰了，常升是受害者，而他的同学兼好友是法律的侵犯者。随手翻翻答案，基本都是谴责这个作案者及其父母的。毫无疑问，他们突破了法律的底线，违背了道德的制约，犯了不可饶恕的过错。现在对他们的谴责既轻…
+
+<a href="/question/49199181/answer/115065126" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/49199181/answer/115065126">发布于 2016-08-05</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-11895739"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>15 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+<div class="zm-item">
+<h2 class="zm-item-title"><a target="_blank" href="/question/48597319">我弟总是摸我胸和下体怎么办？我15他13？</a></h2>
+<div class="zm-item-fav">
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="40593906"
+data-atoken="112793632"
+data-collapsed="0"
+data-created="1469290997"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/48597319/answer/112793632">
+<meta itemprop="answer-id" content="40593906">
+<meta itemprop="answer-url-token" content="112793632">
+<a class="zg-anchor-hidden" name="answer-40593906"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>3284</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">3284</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+
+<span class="author-link-line">
+<a class="author-link"
+data-hovercard="p$t$dee-d"
+target="_blank" href="/people/dee-d"
+>Dee D</a></span>
+</div>
+
+<div class="zm-item-vote-info" data-votecount="3284" data-async-voters="1">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">3284</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="11654350" data-action="/answer/content" data-author-name="Dee D" data-entry-url="/question/48597319/answer/112793632">
+
+<textarea hidden class="content">题主讲的这件事很严重。&lt;br&gt;&lt;br&gt;请不要把这当成单纯的“让人烦恼的骚扰事件”。&lt;br&gt;13岁已经不是小孩子了，在别人睡觉的时候脱别人内裤和摸别人阴部，已经不是“不懂男女有别的小孩摸别人胸”的范畴，有很多强奸案的犯罪者是青春期和青春前期的青少年，而侵害的对象就是堂表亲姐妹。&lt;br&gt;&lt;br&gt;题主从现在起决不要和他在同一间房间里睡觉，不要和他和你奶奶一起出去旅游，洗澡和换衣服的时候也要小心他，即使是在同一个房子里，睡觉时一定要锁好房门。&lt;br&gt;&lt;b&gt;绝对不要和他在同一间房间里睡觉&lt;/b&gt;！&lt;br&gt;&lt;br&gt;题主没有提到父母，我不知道题主父母的思想观念是什么样的，能不能对他们讲，他们是会谴责题主，还是保护题主。&lt;br&gt;看题主奶奶的态度，不要太指望她会“主持公道”。&lt;br&gt;我现在能想到的是：如果他敢在你面前打手枪，或者摸你的胸，你就大闹，拿东西砸他，打他，大声骂他，你奶奶或者别人阻止，你就把他脱你内裤摸你胸部和阴部的事说出来，问她们“这也叫开玩笑？什么才不叫开玩笑？” “我告诉你们，他再动我一次，我就直接拿刀剁了他！” &lt;br&gt;&lt;br&gt;只要题主的父母不至于反而把题主打一顿，我还是建议告诉父母。&lt;br&gt;题主是个孩子，在面对你奶奶这个长辈的时候有天然的弱势，而她现在的做法只是在纵容你堂弟。&lt;br&gt;题主假如要告诉父母，不要说得含含糊糊，不要说“堂弟老在我睡觉的时候惹我，开玩笑扯我衣服”，直接把他趁你睡觉摸你的胸部和私处说出来，把他的有恃无恐说出来，把他对着你打手枪说出来，说你害怕他， 把你奶奶的纵容说出来，把他当着你奶奶的面就敢脱你内裤说出来，把你奶奶说那是“开玩笑”说出来。&lt;br&gt;如果我是你父母，知道我妈这么对待我的女儿，我会疯。（你如果不告诉我，我更会疯）&lt;br&gt;我会去威胁这小子，敢动我女儿一个手指，我就把他的手剁下来。&lt;br&gt;我会告诉我妈，她再说一遍“开玩笑”，我会和她断绝关系。&lt;br&gt;&lt;br&gt;（写到这要气死了。。）&lt;br&gt;&lt;br&gt;我对性侵害的防止和援助还是不太了解，帮你邀请一下别的知友。&lt;br&gt;————————&lt;br&gt;&lt;br&gt;邀请的时候没有考虑到关注度和隐私暴露的问题，欠考虑了。&lt;br&gt;&lt;br&gt;建议题主可以直接向&lt;a href=&quot;http://www.zhihu.com/people/sparks&quot; class=&quot;internal&quot;&gt;花火&lt;/a&gt;知友发私信求助。&lt;br&gt;我答案中的处理方法不一定成熟有效，而且题主面临的处境可能比通过网络和文字描述出来的更加复杂，建议题主通过&lt;a href=&quot;http://www.zhihu.com/people/sparks&quot; class=&quot;internal&quot;&gt;花火&lt;/a&gt;知友联系专门做青少年儿童性侵害救助的机构和人士。&lt;br&gt;&lt;br&gt;希望题主一切都好。&lt;br&gt;&lt;br&gt;&lt;br&gt;————————&lt;br&gt;&lt;br&gt;差不多10天过去了。。也有点想知道题主怎么样了。&lt;br&gt;最近刷了几遍问题的评论，自己的评论区和题主回复过的答主的评论区。&lt;br&gt;但也不想追问题主。。。。就是有点担心。&lt;br&gt;&lt;br&gt;之前给题主发了私信，然后短暂的打开了自己的信箱两天，但又收到一封祝我被性侵犯的私信，所以又把信箱关闭了，昨天刚想到可以关注题主，这样万一题主看到和回复了我的私信就能够收到了。&lt;br&gt;我默默的希望题主已经给花火知友发了私信并且得到了帮助。&lt;br&gt;或者，有任何也需要帮助，或曾经需要帮助的人，看到有许人重视这件事，有许多人不认为这是“一个玩笑”，我这个并没有什么值得获得这么多知友的赞的回答 也算有那么一点些微的作用。&lt;br&gt;&lt;br&gt;——————&lt;br&gt;然后，关于我回答中所说的“大闹”。&lt;br&gt;发怒和撂狠话在我看来是个有用的“宣言”，它不一定能从侵害者的手中保护你（如果他有恃无恐和相信你无法实现你的威胁），但它能阻止旁观者（这里的奶奶）继续用“这是开玩笑”，“这有什么”，来为接下来的侵害制造更方便的条件。我指望，她哪怕看在自己的“金孙孙”的人身安全上，都会去劝解他“你姐姐发神经，你别再去惹她”，和把你们俩隔开（她硬要继续让你们睡在一个房间里/一张床上，还可以进一步撂狠话“我告诉你，要是我醒来的时候发现他一根手指挨着我，我不保证你孙子的安全”）。而我的回答中，把它设定在“抓住骚扰行为的当下”，“身边有奶奶或其他人的情况下”，一方面为了避免题主的弟弟恼羞成怒攻击题主，另一方面为了防止这“发怒和撂狠话”真的造成严重的人身伤害和无法收场（题主奶奶一定会拦住题主的）。&lt;br&gt;&lt;br&gt;——————&lt;br&gt;最后，我&lt;b&gt;真的&lt;/b&gt;希望那些关心施害者的自尊和心理健康的人，能把他们的同情心抽十分之一出来关心一下受害者的心理健康——和人身安全。&lt;br&gt;&lt;br&gt;与其鼓励受害者去“温和的引导和教育”他们的施害者，何不亲自去“温和的引导和教育”那些曾经犯罪，而刚刚刑满释放，需要重新回归社会的人呢？在他们的受害者已经获得正义之后。&lt;br&gt;&lt;br&gt;在想到施害者也有心和灵魂之前，请想想他们的受害者也有同样的，并不更低微更无足轻重的心和灵魂，有同样光明的前途，和不可限量的人生。</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+题主讲的这件事很严重。请不要把这当成单纯的“让人烦恼的骚扰事件”。13岁已经不是小孩子了，在别人睡觉的时候脱别人内裤和摸别人阴部，已经不是“不懂男女有别的小孩摸别人胸”的范畴，有很多强奸案的犯罪者是青春期和青春前期的青少年，而侵害的对象就是…
+
+<a href="/question/48597319/answer/112793632" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 2016-07-24" target="_blank" href="/question/48597319/answer/112793632">编辑于 2016-08-03</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-11654350"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>243 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+<div class="zm-item">
+<h2 class="zm-item-title"><a target="_blank" href="/question/31275790">如何评价「曲婉婷说她母亲是童年时候的英雄」？</a></h2>
+<div class="zm-item-fav">
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="40647955"
+data-atoken="112927886"
+data-collapsed="0"
+data-created="1469366068"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/31275790/answer/112927886">
+<meta itemprop="answer-id" content="40647955">
+<meta itemprop="answer-url-token" content="112927886">
+<a class="zg-anchor-hidden" name="answer-40647955"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>2794</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">2794</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+
+<span class="author-link-line">
+<a class="author-link"
+data-hovercard="p$t$creamyluo"
+target="_blank" href="/people/creamyluo"
+>Creamy络</a></span><span title="网络扫盲志愿工作者" class="bio">网络扫盲志愿工作者</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="2794" data-async-voters="1">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">2794</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="4693009" data-action="/answer/content" data-author-name="Creamy络" data-entry-url="/question/31275790/answer/112927886">
+
+<textarea hidden class="content">&lt;b&gt;如果百度吃人血馒头还没教会你们《资本论》，那曲婉婷总该教会你了吧？&lt;/b&gt;&lt;br&gt;&lt;br&gt;你们认为她会想 “你们怎么能这样？” 或者 “我妈对我很好，但是有愧于你们。”？ &lt;br&gt;那说明你们不过是拿着布尔乔亚的花盆和穷人的锄头幻想皇帝的生活啊。&lt;br&gt;&lt;b&gt;你们根本不知道什么叫“资本家”，什么叫“资本贵族”。 所以你理解不了为什么曲婉婷管她妈叫英雄。&lt;/b&gt;&lt;br&gt;&lt;br&gt;她看你们那些义愤的评论的时候，更可能在想：&lt;br&gt;“你们这群贱民，就知道叫，叫吧，继续可怜的悲鸣吧，最好再叫的响一点，叫的感天动地，叫的撕心裂肺，才够好玩啊。”&lt;br&gt;&quot;我妈赚的钱，让我实现了音乐梦想，扎根外国，让我出生在你们这些人下辈子的人生终点线上，这就是英雄。你们嫉妒，你们哀嚎，都毫无意义，你们成不了上等人，只能领着微薄的薪水工作到死。就算我妈被判了死刑，你们依然是贱民。&quot;&lt;br&gt;&lt;br&gt;没错，这就是“贵族”。&lt;br&gt;中产和穷人，大城市人和农村人，小业主和工薪阶层，民工务员和下岗工人，医生教师和低保户，这些父母的孩子从三观教养到个人素质的差别，都可能有爱国愤青和烧护照的那么大。&lt;b&gt;何况是一个“贵族”的孩子和你？&lt;/b&gt;&lt;br&gt;&lt;br&gt;想像一下，当她识字的时候，身居高层的妈就告诉她这辈子是不同的。&lt;br&gt;在她童年的时候，她妈用贪来的人的活命钱，给她富饶快乐的生活。还不忘了告诉她，你是高贵的，那些人是贱民。他们嫉妒你，恨你。&lt;br&gt;然后她吃着无数人的血汗，光彩夺目的去留学，去实现音乐梦想。在华美的舞台上，璀璨的灯光中，耀眼的仿如天使。&lt;br&gt;等到她母亲出事了，网民不痛不痒的骂，肆意的发泄，消费着别人的痛苦。她不会多难过，哪怕她母亲真的死刑立即执行，网民再拍手称快，也不过给她带来些须臾的感伤。资金已经转移，她这辈子如诗如画的生活已经成了定局。&lt;br&gt;她妈当然是英雄。&lt;br&gt;&lt;br&gt;她也自然是不会害怕网民的干嚎和痛骂的，如果是个有点“审美”特别的贵族，还会像占领华尔街时，在高楼上端着红酒的“上层人士”一样享受着看“贱民”的挣扎闹剧。&lt;br&gt;&lt;br&gt;看看沙俄的旧贵族怎么光鲜的吧。&lt;br&gt;&lt;blockquote&gt;这些人类敌人像什么呢？他们会在前额上贴上一个标记，让人们轻易就能辨认出他们，躲避他们，骂他们是罪犯吗？不！相反，他们是受人尊敬的人物，他们荣誉在身，有绅士称号，他们也自称为绅士。多么滑稽的名字！绅士？他们是国家、社会和教会的支柱，他们从过多的财富中拿出一部分来支持公共和私人的慈善事业，他们向机构捐赠。在私生活中，他们善良而体贴。他们遵纪守法，遵守的是保护他们的法律——财产法。但是，有一个迹象可以辨认出这些持枪的绅士：只要威胁说要减少他们的钱所带来的利润，他们就会像猛兽一样咆哮着醒来，像野人一样无情、像疯子一样残忍、像刽子手一样残暴。如果人类想要存在，这些人必须消失，只要他们活着，世界上就不会有持久的和平。允许他们存在的那个人类社会的组织必须废除。&lt;br&gt;&lt;br&gt;作者：秋明·阿尔罕布拉&lt;br&gt;链接：&lt;a href=&quot;https://www.zhihu.com/question/26165225/answer/112068646&quot; class=&quot;internal&quot;&gt;十月革命后，俄罗斯的贵族真的如电视剧中所说流落世界各地了吗？ - 秋明·阿尔罕布拉的回答&lt;/a&gt;&lt;br&gt;来源：知乎&lt;br&gt;著作权归作者所有，转载请联系作者获得授权。&lt;/blockquote&gt;&lt;br&gt;歌星一件华丽的舞裙的价格，可能是你们多少人五年十年的薪水。&lt;br&gt;她靠着3.5亿积累走过的路，和未来会走的路，比你今生能想到的极致都要梦幻。&lt;br&gt;资本家对资二代当然是英雄。&lt;br&gt;&lt;br&gt;而被贪了安置款的家庭，走投无路甚至自杀的父母留下的孩子们，多少人也拥有画画的梦，音乐的梦？&lt;br&gt;但是她们没有英雄。&lt;br&gt;&lt;br&gt;她们父母只能在儿子的埋怨，老人的责骂中，点着千篇一律的烟，流着千篇一律的泪，说，对不起，我没能力让你们过上好日子。&lt;br&gt;&lt;br&gt;她们长到了曲婉婷的年纪，羡慕着舞台上的曲婉婷的时候，她们劳苦半生的父母只会老泪纵横地说，对不起，我这辈子拖累了你，让你儿时的梦想碎了。&lt;br&gt;&lt;br&gt;而甚至实在不堪重负的父母，用自杀的方式，给曲婉婷的光环上添上了一道美丽的血色。&lt;br&gt;&lt;br&gt;而曲婉婷舔舐着嘴角的血迹，说，她妈是个英雄。&lt;br&gt;&lt;br&gt;这个世界，从不缺“英雄豪杰”。“英雄豪杰&quot;被曲婉婷她妈逼的走投无路，宁愿自杀。&lt;br&gt;&lt;br&gt;缺的是什么呢？</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+<b>如果百度吃人血馒头还没教会你们《资本论》，那曲婉婷总该教会你了吧？</b>你们认为她会想 “你们怎么能这样？” 或者 “我妈对我很好，但是有愧于你们。”？ 那说明你们不过是拿着布尔乔亚的花盆和穷人的锄头幻想皇帝的生活啊。<b>你们根本不知道什么叫“资本家”…</b>
+
+<a href="/question/31275790/answer/112927886" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 2016-07-24" target="_blank" href="/question/31275790/answer/112927886">编辑于 2016-07-25</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-4693009"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>396 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+<div class="zm-item">
+<h2 class="zm-item-title"><a target="_blank" href="/question/41676600">维基解密公开的 DNC 邮件中有哪些不可告人的内容？</a></h2>
+<div class="zm-item-fav">
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="40654463"
+data-atoken="112944091"
+data-collapsed="0"
+data-created="1469371626"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/41676600/answer/112944091">
+<meta itemprop="answer-id" content="40654463">
+<meta itemprop="answer-url-token" content="112944091">
+<a class="zg-anchor-hidden" name="answer-40654463"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>366</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">366</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<span title="Hillary is an antisemite." class="bio">Hillary is an antisemite.</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="366" data-async-voters="1">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">366</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="8877999" data-action="/answer/content" data-author-name="西域刀客" data-entry-url="/question/41676600/answer/112944091">
+
+<textarea hidden class="content">谢 &lt;a data-hash=&quot;650cd56e50524f0467db77b7acedcaf1&quot; href=&quot;//www.zhihu.com/people/650cd56e50524f0467db77b7acedcaf1&quot; class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@再生缘.新希望&quot; data-hovercard=&quot;p$b$650cd56e50524f0467db77b7acedcaf1&quot;&gt;@再生缘.新希望&lt;/a&gt; 邀。&lt;br&gt;根据维基解密最新披露的邮件，民主党已经蜕变为&lt;b&gt;种族主义政党&lt;/b&gt;：&lt;br&gt;&lt;img src=&quot;https://pic2.zhimg.com/21fed6cc29774e2116d6c027b3723f0d_b.png&quot; data-rawwidth=&quot;971&quot; data-rawheight=&quot;419&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;971&quot; data-original=&quot;https://pic2.zhimg.com/21fed6cc29774e2116d6c027b3723f0d_r.png&quot;&gt;&lt;blockquote&gt;Several emails posted by Wikileaks on its document disclosure website show DNC officials scoffing at Sanders and his supporters and in one instance, questioning his commitment to his &lt;b&gt;Jewish religion&lt;/b&gt;. Some emails also show DNC and White House officials mulling whether to invite guests with controversial backgrounds to Democratic party events.&lt;/blockquote&gt;译文：一些已经被维基解密泄露在其专属网页上的电邮表明了全国民主党大会的官员们嘲笑桑德斯及其粉丝，&lt;b&gt;并质疑桑德斯的犹太教信仰&lt;/b&gt;。另一些电邮则表明全国民主党大会和白宫官员讨论是否应该邀请“有争议性背景”的嘉宾参加民主党大会。&lt;br&gt;&lt;a href=&quot;http://link.zhihu.com/?target=https%3A//www.yahoo.com/news/hacked-emails-show-democratic-party-hostility-sanders-153949086--election.html&quot; class=&quot;internal&quot;&gt;https://www.yahoo.com/news/hacked-emails-show-democratic-party-hostility-sanders-153949086--election.html&lt;/a&gt;&lt;br&gt;&lt;br&gt;一个&lt;b&gt;明里暗里排斥犹太人&lt;/b&gt;的竞选人，却居然&lt;b&gt;指责川普是纳粹分子&lt;/b&gt;，真是滑天下之大稽。&lt;br&gt;让我们对比一下川普和希拉里对犹太人的态度：&lt;br&gt;&lt;b&gt;川普的大女婿贾瑞德.库什纳是犹太人&lt;/b&gt;；&lt;br&gt;希拉里的党内对手桑德斯是犹太人。&lt;br&gt;川普在竞选策略上接受犹太女婿的意见，并在全美犹太人大会上发表演讲，&lt;b&gt;发誓保护犹太人祖国以色列安全&lt;/b&gt;，获得满堂喝彩；&lt;br&gt;希拉里一手拿华尔街的钱，另一只手却拒绝伸给桑德斯，并且&lt;b&gt;在巴以问题上反复摇摆&lt;/b&gt;，言辞模糊，还替犹太人和西方世界的共同敌人——伊斯兰洗白。&lt;br&gt;&lt;b&gt;谁才是真正团结少数民族群众的人&lt;/b&gt;？&lt;b&gt;谁才是真正的种族歧视者、反犹主义者&lt;/b&gt;？&lt;br&gt;&lt;br&gt;希拉里和桑德斯的对决已经在很大程度上撕裂了民主党的基本盘，而维基解密这次的火上浇油除了会导致大批桑粉将其唾弃之外，还暴露了其作为政治投机分子的嘴脸。就像某些有识之士说的，&lt;b&gt;皿煮党白左们需要的&lt;/b&gt;，&lt;b&gt;只是少数民族投票机器而已&lt;/b&gt;。&lt;br&gt;然而尽管希拉里和皿煮党把美国国内的少数民族当作自动选票，但少数民族却并不买账。根据Quiniipiac的报告，川普在拉丁裔中已经获得了超过30%的支持率，这还是在他发表了针对拉丁裔大法官的不敬言论之后。在共和党以前的所有总统候选人中，只有&lt;b&gt;根基深扎德州和佛州的小布什&lt;/b&gt;能达到这个高度。&lt;br&gt;&lt;br&gt;那么希拉里的基本盘又是些什么人呢？&lt;br&gt;1.&lt;b&gt;以华尔街为代表的一切全球化既得利益者&lt;/b&gt;。&lt;br&gt;2.被奥巴马合法化的非法移民，在奥巴马任上拿了本该属于美国人的蛋糕，现在想继续拿。&lt;br&gt;3.黑人中想通过煽动社会不稳定牟取利益的极端分子（黑命贵）。&lt;br&gt;4.道貌岸然宣扬人人平等，但对第三世界充满着无知和居高临下优越感的&lt;b&gt;白左&lt;/b&gt;（如云南通 &lt;a data-hash=&quot;685ea0b4e856a4c694d9b1e39f1dea67&quot; href=&quot;//www.zhihu.com/people/685ea0b4e856a4c694d9b1e39f1dea67&quot; class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@David Rand&quot; data-hovercard=&quot;p$b$685ea0b4e856a4c694d9b1e39f1dea67&quot;&gt;@David Rand&lt;/a&gt;）&lt;br&gt;5.&lt;b&gt;大批被白左洗脑的力薄儒和圣母（很不幸，这类人很多）&lt;/b&gt;&lt;br&gt;&lt;br&gt;但是希拉里是&lt;b&gt;很有可能拿不到&lt;/b&gt;以下票仓的：&lt;br&gt;1.白手成家立业的拉丁裔移民（含墨西哥裔），以及亲共和党的古巴裔。这类人是支持美国传统价值观和美国梦的激进分子，反对观海和希拉里针对中产阶级的倒行逆施。&lt;br&gt;2.反对极端黑人组织黑命贵，要求终结TPP获得稳定工作的黑人。&lt;br&gt;3.&lt;b&gt;由于穆斯林极端分子对以色列越发嚣张&lt;/b&gt;，&lt;b&gt;而对伊斯兰感到恐惧的犹太人&lt;/b&gt;。&lt;br&gt;&lt;br&gt;而希拉里&lt;b&gt;绝对拿不到&lt;/b&gt;的票仓有：&lt;br&gt;1.美国中上层里要求终结TPP捍卫美国经济主权的有识之士；&lt;br&gt;2.&lt;b&gt;深受TPP之害的美国白人工人群体&lt;/b&gt;；&lt;br&gt;3.以Milo Yiannipoulos为代表，&lt;b&gt;反对希拉里在奥兰多事件上的绥靖政策的部分LGBT&lt;/b&gt;。&lt;br&gt;4.&lt;b&gt;以伊朗裔美国人为主的反对美国本土穆斯林恐怖主义的部分中东裔美国人&lt;/b&gt;；&lt;br&gt;5.因为SCA5而对皿煮党充满愤怒的部分华裔；&lt;br&gt;6.对希拉里的诚信度充满怀疑的桑德斯铁杆粉丝。&lt;br&gt;&lt;br&gt;&lt;b&gt;如果川普是一只喜欢咆哮的狮子&lt;/b&gt;，&lt;b&gt;那么希拉里和皿煮党党卫军就是一群阴险的披着羊皮的狼&lt;/b&gt;，而且随着时间的推移，这一点会暴露得更加充分。&lt;br&gt;&lt;br&gt;&lt;u&gt;&lt;b&gt;真正可怕的纳粹分子&lt;/b&gt;，&lt;b&gt;是打着爱国团结的旗号&lt;/b&gt;，&lt;b&gt;要求不分种族信仰性别肤色的人&lt;/b&gt;。&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;------------------------------------------------------------------------------------&lt;br&gt;&lt;br&gt;刚才网上掀起了拉丁裔美国人是否应该用西班牙语作母语的讨论，本人在此贴一段拉丁裔关于此事的看法：&lt;br&gt;&lt;img src=&quot;https://pic1.zhimg.com/31fec20775359e475edb3554c6d792fc_b.png&quot; data-rawwidth=&quot;632&quot; data-rawheight=&quot;106&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;632&quot; data-original=&quot;https://pic1.zhimg.com/31fec20775359e475edb3554c6d792fc_r.png&quot;&gt;&lt;br&gt;----------------------------------&lt;br&gt;&lt;br&gt;更新：&lt;br&gt;皿煮党反犹罪名坐实，一位亲皿煮党的黑人牧师在DNC上公开宣称耶稣基督是“棕色皮肤的巴勒斯坦犹太人”&lt;br&gt;&lt;img src=&quot;https://pic1.zhimg.com/3290b4d3ad5a0036d07c223cf769d5e4_b.jpg&quot; data-rawwidth=&quot;717&quot; data-rawheight=&quot;1080&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;717&quot; data-original=&quot;https://pic1.zhimg.com/3290b4d3ad5a0036d07c223cf769d5e4_r.jpg&quot;&gt;</textarea>
+
+
+<div class="zh-summary summary clearfix">
+<img src="https://pic2.zhimg.com/21fed6cc29774e2116d6c027b3723f0d_200x112.png" data-rawwidth="971" data-rawheight="419" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic2.zhimg.com/21fed6cc29774e2116d6c027b3723f0d_r.png">
+谢 <a data-hash="650cd56e50524f0467db77b7acedcaf1" href="//www.zhihu.com/people/650cd56e50524f0467db77b7acedcaf1" class="member_mention" data-editable="true" data-title="@再生缘.新希望" data-hovercard="p$b$650cd56e50524f0467db77b7acedcaf1">@再生缘.新希望</a> 邀。根据维基解密最新披露的邮件，民主党已经蜕变为<b>种族主义政党</b>：Several emails posted by Wikileaks on its document disclosure website show DNC officials scoffing at Sanders and his supporters and in one instance, questioni…
+
+<a href="/question/41676600/answer/112944091" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 2016-07-24" target="_blank" href="/question/41676600/answer/112944091">编辑于 2016-08-02</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-8877999"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>161 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+<div class="zm-item">
+<h2 class="zm-item-title"><a target="_blank" href="/question/41676600">维基解密公开的 DNC 邮件中有哪些不可告人的内容？</a></h2>
+<div class="zm-item-fav">
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="40621408"
+data-atoken="112861861"
+data-collapsed="0"
+data-created="1469338873"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/41676600/answer/112861861">
+<meta itemprop="answer-id" content="40621408">
+<meta itemprop="answer-url-token" content="112861861">
+<a class="zg-anchor-hidden" name="answer-40621408"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>426</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">426</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+
+<span class="author-link-line">
+<a class="author-link"
+data-hovercard="p$t$zai-sheng-yuan-xin-xi-wang"
+target="_blank" href="/people/zai-sheng-yuan-xin-xi-wang"
+>再生缘.新希望</a></span><span title="保守主义/GOP/茶党运动/右翼" class="bio">保守主义/GOP/茶党运动/右翼</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="426" data-async-voters="1">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">426</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="8877999" data-action="/answer/content" data-author-name="再生缘.新希望" data-entry-url="/question/41676600/answer/112861861">
+
+<textarea hidden class="content">根据已经曝光的美国民主党秘密文件，总结了以下几点与希拉里有关的内容：&lt;br&gt;1)去年12月民主党全国委员会(DNC)与桑德斯关系破裂，桑德斯阵营要求访问选民数据库被DNC拒绝，并且取消桑德斯阵营的访问授权；&lt;br&gt;2)多场民主党初选有选举舞弊现象，甚至新英格兰部分选区的票站没开放，HC阵营有种票、做票、买票的恶劣行径；&lt;br&gt;3)伪造特朗普集团的假广告，比如制造一则特朗普只招漂亮女性员工，歧视年长女性的广告，而事实上特朗普集团从来没发布过这种广告。&lt;br&gt;这种行为属于不诚实使用电脑，是犯罪行为，是极其低俗的无耻人身攻击；&lt;br&gt;4)提前审阅左派媒体的新闻稿，并且删除。伪造特朗普的言论、伪造桑德斯的宗教信仰；&lt;br&gt;5)和HC吃饭竟然要钱，出场费多少、吃多少分钟要多少钱、哪个日子比较贵等等，看来希拉里和妓女没多大区别；&lt;br&gt;6)DNC阵营监视到全美国每一个县郡市镇，对只有几百人的团体也一清二楚，包括加州的华裔Trunp助选团都被民主党关注。&lt;br&gt;&lt;br&gt;带来的直接影响：&lt;br&gt;1)民主党主席已经取消原定7月25号在DNC全国代表大会上的发言，疑因与泄密事件有关；&lt;br&gt;2)桑德斯在党代会第一天发言，并且要称赞HC如何如何好，现在已经证明希拉里和DNC共同陷害他的情况下，桑德斯本人很难堪，只能无奈的歌颂HC，他的支持者更加会感到羞辱。&lt;br&gt;3)邮件泄密事件据说有俄罗斯右派黑客、罗马尼亚黑客。&lt;br&gt;7月5号早上FBI宣布不起诉希拉里，同日一名关押在美国弗吉尼亚州的罗马尼亚黑客Guccifer自杀身亡，该名黑客曾经获得大量希拉里秘密邮件。&lt;br&gt;罗马尼亚黑客Guccifer是自杀还是“被自杀”？&lt;br&gt;俄罗斯右派普京政府手中还有没有更多爆炸性的希拉里文件尚未公布，留待大选最后一刻公布，助特朗普一臂之力？&lt;br&gt;(世界右派一家亲，80年代共和党的里根总统打败苏联左派，现在俄罗斯黑客又出手相助共和党)&lt;br&gt;4)希拉里和民主党会不会知道中国大陆有很多川普粉，因为他们连那个5000人的华裔助选团都知道，而华裔助选团很多人都有上知乎，也许民主党知道知乎的存在，并且曾经派人登录世界各国的社交网站，了解各国特朗普海外支持者，包括知乎。&lt;br&gt;据说知乎上有3万张美国华裔选票，占美国总人口0.01%(此观点存疑，美国政府没有对海外互联网用户做过统计，但民主党可能私下做过记录)，民主党有没可能私下派网络评论员来知乎助选？</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+根据已经曝光的美国民主党秘密文件，总结了以下几点与希拉里有关的内容：1)去年12月民主党全国委员会(DNC)与桑德斯关系破裂，桑德斯阵营要求访问选民数据库被DNC拒绝，并且取消桑德斯阵营的访问授权；2)多场民主党初选有选举舞弊现象，甚至新英格兰部分选区…
+
+<a href="/question/41676600/answer/112861861" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 2016-07-24" target="_blank" href="/question/41676600/answer/112861861">编辑于 2016-07-25</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-8877999"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>78 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+<div class="zm-item">
+<h2 class="zm-item-title"><a target="_blank" href="/question/31275790">如何评价「曲婉婷说她母亲是童年时候的英雄」？</a></h2>
+<div class="zm-item-fav">
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="40613743"
+data-atoken="112842927"
+data-collapsed="0"
+data-created="1469331221"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/31275790/answer/112842927">
+<meta itemprop="answer-id" content="40613743">
+<meta itemprop="answer-url-token" content="112842927">
+<a class="zg-anchor-hidden" name="answer-40613743"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>1</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">1</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<span title="天地有常，万物有形，不为尧存，不为桀亡" class="bio">天地有常，万物有形，不为尧存，不为桀亡</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="1" data-async-voters="1">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">1</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="4693009" data-action="/answer/content" data-author-name="戒贤" data-entry-url="/question/31275790/answer/112842927">
+
+<textarea hidden class="content">侵吞国有资产，贪污几亿，流逝几十亿，致使很多家庭败落，甚至家破人亡，这话说的真是猪都不如。其实贪官的子女比绝大多数出身小资，中产的孩子精，而且精的多，十五，六岁就擅长欺瞒，作假，奸邪，有些还是老手。所以别指望他们有是非观。&lt;br&gt;一大波煞笔理中客正在慢慢靠近</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+侵吞国有资产，贪污几亿，流逝几十亿，致使很多家庭败落，甚至家破人亡，这话说的真是猪都不如。其实贪官的子女比绝大多数出身小资，中产的孩子精，而且精的多，十五，六岁就擅长欺瞒，作假，奸邪，有些还是老手。所以别指望他们有是非观。一大波煞笔理中客…
+
+<a href="/question/31275790/answer/112842927" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 2016-07-24" target="_blank" href="/question/31275790/answer/112842927">编辑于 2016-07-24</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-4693009"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+<div class="zm-item">
+<h2 class="zm-item-title"><a target="_blank" href="/question/48658872">如何看曲婉婷母亲张明杰被控贪污，检方建议死刑？</a></h2>
+<div class="zm-item-fav">
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="40457597"
+data-atoken="112454185"
+data-collapsed="0"
+data-created="1469115128"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/48658872/answer/112454185">
+<meta itemprop="answer-id" content="40457597">
+<meta itemprop="answer-url-token" content="112454185">
+<a class="zg-anchor-hidden" name="answer-40457597"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>1202</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">1202</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+
+<span class="author-link-line">
+<a class="author-link"
+data-hovercard="p$t$he-he-da-61-98"
+target="_blank" href="/people/he-he-da-61-98"
+>呵呵哒</a></span>
+</div>
+
+<div class="zm-item-vote-info" data-votecount="1202" data-async-voters="1">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">1202</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="11679052" data-action="/answer/content" data-author-name="呵呵哒" data-entry-url="/question/48658872/answer/112454185">
+
+<textarea hidden class="content">很典型的例子！“他们”用我们承受高房价，地沟油，高税收，污染空气的钱送自己的儿女出国留学并转移资产，准备退休后国外颐养天年，没想到成功了一半，女儿成才嫁人入外国籍，资产转移了，自己落马了。</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+很典型的例子！“他们”用我们承受高房价，地沟油，高税收，污染空气的钱送自己的儿女出国留学并转移资产，准备退休后国外颐养天年，没想到成功了一半，女儿成才嫁人入外国籍，资产转移了，自己落马了。
+
+<a href="/question/48658872/answer/112454185" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 2016-07-21" target="_blank" href="/question/48658872/answer/112454185">编辑于 2016-07-22</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-11679052"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>204 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+<div class="zm-item">
+<h2 class="zm-item-title"><a target="_blank" href="/question/23983649">如何评价赵薇？</a></h2>
+<div class="zm-item-fav">
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="39938346"
+data-atoken="111161820"
+data-collapsed="0"
+data-created="1468506239"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/23983649/answer/111161820">
+<meta itemprop="answer-id" content="39938346">
+<meta itemprop="answer-url-token" content="111161820">
+<a class="zg-anchor-hidden" name="answer-39938346"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>74</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">74</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+
+<span class="author-link-line">
+<a class="author-link"
+data-hovercard="p$t$lin-feng-12-47"
+target="_blank" href="/people/lin-feng-12-47"
+>林枫</a></span><span title="(^▽^ )" class="bio">(^▽^ )</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="74" data-async-voters="1">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">74</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="1775261" data-action="/answer/content" data-author-name="林枫" data-entry-url="/question/23983649/answer/111161820">
+
+<textarea hidden class="content">请结合 &lt;a data-hash=&quot;2929c0c75d8d742cc9333b507145bf39&quot; href=&quot;//www.zhihu.com/people/2929c0c75d8d742cc9333b507145bf39&quot; class=&quot;member_mention&quot; data-editable=&quot;true&quot; data-title=&quot;@陈风暴烈酒&quot; data-tip=&quot;p$b$2929c0c75d8d742cc9333b507145bf39&quot; data-hovercard=&quot;p$b$2929c0c75d8d742cc9333b507145bf39&quot;&gt;@陈风暴烈酒&lt;/a&gt; 的答案来看，这就是我以前喜欢的赵薇吗？&lt;br&gt;&lt;a href=&quot;https://www.zhihu.com/question/23983649/answer/111117164&quot; class=&quot;internal&quot;&gt;如何评价赵薇？ - 陈风暴烈酒的回答&lt;/a&gt;&lt;br&gt;&lt;br&gt;一句话阐明吧，赵薇有个吴姓粉丝生娃，请赵薇起名，然后赵薇给人家起了一个曾和自己有矛盾人的名字，而且已经去世了，悲哀的是粉丝在不明情况下还很高兴。&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://pic1.zhimg.com/ca5e7a93d70d5213d79599b05147fd30_b.jpg&quot; data-rawwidth=&quot;557&quot; data-rawheight=&quot;230&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;557&quot; data-original=&quot;https://pic1.zhimg.com/ca5e7a93d70d5213d79599b05147fd30_r.jpg&quot;&gt;&lt;img src=&quot;https://pic3.zhimg.com/fa093455b301ee01d439fa0807a7107a_b.jpg&quot; data-rawwidth=&quot;640&quot; data-rawheight=&quot;1137&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic3.zhimg.com/fa093455b301ee01d439fa0807a7107a_r.jpg&quot;&gt;</textarea>
+
+
+<div class="zh-summary summary clearfix">
+<img src="https://pic1.zhimg.com/ca5e7a93d70d5213d79599b05147fd30_200x112.jpg" data-rawwidth="557" data-rawheight="230" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic1.zhimg.com/ca5e7a93d70d5213d79599b05147fd30_r.jpg">
+请结合 <a data-hash="2929c0c75d8d742cc9333b507145bf39" href="//www.zhihu.com/people/2929c0c75d8d742cc9333b507145bf39" class="member_mention" data-editable="true" data-title="@陈风暴烈酒" data-tip="p$b$2929c0c75d8d742cc9333b507145bf39" data-hovercard="p$b$2929c0c75d8d742cc9333b507145bf39">@陈风暴烈酒</a> 的答案来看，这就是我以前喜欢的赵薇吗？<a href="https://www.zhihu.com/question/23983649/answer/111117164" class="internal">如何评价赵薇？ - 陈风暴烈酒的回答</a>一句话阐明吧，赵薇有个吴姓粉丝生娃，请赵薇起名，然后赵薇给人家起了一个曾和自己有矛盾人的名字，而且已经去世了，悲哀的是粉丝在不明情况下还很高兴。
+
+<a href="/question/23983649/answer/111161820" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 2016-07-14" target="_blank" href="/question/23983649/answer/111161820">编辑于 2016-07-14</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-1775261"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>87 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+<div class="zm-item">
+<h2 class="zm-item-title"><a target="_blank" href="/question/45417012">如何看待赵薇新电影《没有别的爱》使用台湾艺人戴立忍？</a></h2>
+<div class="zm-item-fav">
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="38805018"
+data-atoken="108340891"
+data-collapsed="0"
+data-created="1467120285"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/45417012/answer/108340891">
+<meta itemprop="answer-id" content="38805018">
+<meta itemprop="answer-url-token" content="108340891">
+<a class="zg-anchor-hidden" name="answer-38805018"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>2390</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">2390</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="2390" data-async-voters="1">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">2390</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="10379338" data-action="/answer/content" data-author-name="VinceY" data-entry-url="/question/45417012/answer/108340891">
+
+<textarea hidden class="content">okok 看来从天涯上摘录帖子里的信息就是抄袭了。我删了，想看信息请去天涯上寻找。&lt;br&gt;&lt;br&gt;另外有人说我怕什么为什么要匿名，那我就解匿了呗。真的无所谓</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+okok 看来从天涯上摘录帖子里的信息就是抄袭了。我删了，想看信息请去天涯上寻找。另外有人说我怕什么为什么要匿名，那我就解匿了呗。真的无所谓
+
+<a href="/question/45417012/answer/108340891" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 2016-06-28" target="_blank" href="/question/45417012/answer/108340891">编辑于 2016-08-02</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-10379338"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+
+<div class="border-pager">
+<div class="zm-invite-pager">
+
+<span class="zg-gray-normal">上一页</span>
+
+
+
+
+
+
+
+
+<span class="zg-gray-normal">1</span>
+
+
+
+<span><a href="?page=2">2</a></span>
+
+
+
+<span><a href="?page=3">3</a></span>
+
+
+
+<span>...</span>
+
+<span><a href="?page=10">10</a></span>
+
+
+
+<span><a href="?page=2">下一页</a></span>
+
+</div>
+</div>
+
+
+</div>
+</div>
+
+
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="SignFlow SignFlow--bordered" id="SidebarSignFlow">
+<div class="SignFlow-panel">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register SignupForm">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" aria-label="姓名" data-placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+
+<input type="text" name="phone_num" class="account" aria-label="手机号（仅支持中国大陆）" data-placeholder="手机号（仅支持中国大陆）" required>
+
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" aria-label="密码" data-placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha-module" data-type="en" >
+<input id="captcha" name="captcha" placeholder="验证码" required data-rule-required="true" data-msg-required="请填写验证码">
+<div class="captcha-container">
+
+<img class="js-refreshCaptcha captcha" width="120" height="30" data-tooltip="s$t$看不清楚？换一张"  alt="验证码">
+</div>
+</div>
+<div class="actions">
+
+<input type="submit" value="注册" class="submit zg-btn-blue">
+
+</div>
+<div class="sns clearfix">
+<span>已有帐号？<a href="#" class="switch-to-login">登录</a></span>
+</div>
+</form>
+</div>
+</div>
+<div class="SignFlow-panel" hidden>
+<div class="LoginForm">
+<div class="title login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form method="POST">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" aria-label="手机号或邮箱" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" aria-label="密码" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha-module" data-type="en" >
+<input id="captcha" name="captcha" placeholder="验证码" required data-rule-required="true" data-msg-required="请填写验证码">
+<div class="captcha-container">
+
+<img class="js-refreshCaptcha captcha" width="120" height="30" data-tooltip="s$t$看不清楚？换一张"  alt="验证码">
+</div>
+</div>
+<div class="actions">
+
+<input type="submit" value="登录" class="submit zg-btn-blue">
+
+</div>
+<div class="sns clearfix">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button type="button" class="js-show-sns-buttons is-visible">社交帐号登录</button>
+<div class="sns-buttons">
+<button type="button" class="wechat"><span class="ico sprite-global-icon-wechat-gray"></span>微信</button>
+<button type="button" class="weibo"><span class="ico sprite-global-icon-weibo-gray"></span>微博</button>
+<button type="button" class="qq"><span class="ico sprite-global-icon-qq-gray"></span>QQ</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-side-section">
+<div class="DownloadApp">
+<button class="DownloadApp-button">
+<span class="sprite-global-icon-qrcode"></span>
+下载知乎 App
+</button>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>关于创建者</h3>
+<a class="zm-list-avatar-link" href="/people/">
+<img class="zm-list-avatar-medium"
+src="https://pic1.zhimg.com/da8e974dc_m.jpg"/>
+</a>
+<div class="zm-list-content-medium" id="zh-single-answer-author-info">
+<span class="zg-right">
+<button data-follow="m:button" data-id="efb406873ffb703be375d8585ccc999b" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</span>
+<h2 class="zm-list-content-title">
+
+<span>知乎用户</span>
+
+</h2>
+
+<span class="zg-gray-normal bio">天地有常，万物有形，不为尧存，不为桀亡</span>
+</div>
+</div>
+</div>
+
+
+<div class="zm-side-section explore-side-section">
+<div class="zm-side-section-inner">
+<div class="section-title">
+<a href="javascript:;" id="js-hot-fav-switch" class="zg-link-gray zg-right" data-za-c="collection" data-za-a="click_trending_collections_change" data-za-l="explore_sidebar_trending_collections_collection_name">换一换</a>
+<h3>热门收藏</h3>
+</div>
+<ul class="list hot-favlists">
+<li>
+<div class="content">
+<a href="/collection/41390094" target="_blank">吾国与吾民</a>
+<div class="meta">
+<span>1847 人关注</span>
+<span class="zg-bull">&bull;</span>
+<span>298 个回答</span>
+</div>
+</div>
+</li>
+
+<li>
+<div class="content">
+<a href="/collection/69128375" target="_blank">笑的我尿了</a>
+<div class="meta">
+<span>563 人关注</span>
+<span class="zg-bull">&bull;</span>
+<span>97 个回答</span>
+</div>
+</div>
+</li>
+
+<li>
+<div class="content">
+<a href="/collection/66283797" target="_blank">「一本正经」+「瞎扯蛋」+「吐槽＆打脸」</a>
+<div class="meta">
+<span>728 人关注</span>
+<span class="zg-bull">&bull;</span>
+<span>630 个回答</span>
+</div>
+</div>
+</li>
+
+<li>
+<div class="content">
+<a href="/collection/44526696" target="_blank">可浪漫，可残酷</a>
+<div class="meta">
+<span>2959 人关注</span>
+<span class="zg-bull">&bull;</span>
+<span>248 个回答</span>
+</div>
+</div>
+</li>
+
+<li>
+<div class="content">
+<a href="/collection/29133228" target="_blank">是什么-专业者说</a>
+<div class="meta">
+<span>2013 人关注</span>
+<span class="zg-bull">&bull;</span>
+<span>104 个回答</span>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-loc="explore_down" data-params='{}'></div>
+
+
+</div>
+
+
+</div>
+
+
+<div id="zh-footer" class="zh-footer">
+<div class="content zg-wrap clearfix">
+<ul>
+
+<li><a href="https://liukanshan.zhihu.com" target="_blank">刘看山</a></li>
+
+<li><a href="/app" target="_blank">移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="/contact">联系我们</a></li>
+
+</ul>
+
+<span class="copy">&copy; 2016 知乎</span>
+
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="user_status">[null,null]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null,false]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1470622263000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="ra-urls">{"Copyright":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/Copyright.e320b851.js","Community":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/Community.b79b75b4.js","Report":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/Report.87d08172.js","common":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/common.c696827d.js","BalanceApp":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/BalanceApp.fd79d12c.js","AnswerWarrant":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/AnswerWarrant.d0b15632.js","OrgAnalytics":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/OrgAnalytics.87755fe1.js","CommentApp":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/CommentApp.c8165e20.js"}</script>
+
+<script type="text/json" class="json-inline" data-name="current_list">[4732058,true,29847997,324]</script>
+
+
+<script src="https://static.zhihu.com/static/revved/-/js/vendor.cb14a042.js"></script>
+<script src="https://static.zhihu.com/static/revved/-/js/closure/base.4cbdac46.js"></script>
+
+<script src="https://static.zhihu.com/static/revved/-/js/closure/common.fd0c254a.js"></script>
+
+
+<script src="https://static.zhihu.com/static/revved/-/js/closure/richtexteditor.fd2cc82a.js" async></script>
+<script src="https://static.zhihu.com/static/revved/-/js/closure/page-main.bb0ec045.js"></script>
+<meta name="entry" content="ZH.entryL" data-module-id="page-main">
+
+<script type="text/zscript" znonce="d09c68f53d0e4af98b8b01c66cf2f19f"></script>
+
+<input type="hidden" name="_xsrf" value="ac11b42fcec1f06411e2424413b4ea27"/>
+</body>
+</html>
+
+

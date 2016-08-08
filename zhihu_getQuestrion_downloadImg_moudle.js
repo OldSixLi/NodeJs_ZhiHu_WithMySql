@@ -28,7 +28,7 @@ if (!fs.existsSync(imageFile))
     fs.mkdirSync(imageFile, 0777); //创建目录
     console.log(imageFile + '文件夹已成功创建！');
 }
-var date_file = imageFile + getNowFormatDate('date');
+var date_file = imageFile +'/'+ getNowFormatDate('date');
 if (!fs.existsSync(date_file))
 {
     fs.mkdirSync(date_file, 0777); //创建目录
